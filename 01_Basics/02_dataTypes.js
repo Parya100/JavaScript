@@ -13,3 +13,4 @@ let branch = CSE
 //undefined = use for value not diffene current but it will be diffene
 console.log(typeof "prince");
 console.log(typeof age);
+
