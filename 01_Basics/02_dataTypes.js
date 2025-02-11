@@ -7,6 +7,7 @@ console.log(3+3);
 let name ="Prince"
 let age = 20
 let Marride =false
+let branch = CSE
 
 //null = asighn value null
 //undefined = use for value not diffene current but it will be diffene
